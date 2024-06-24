@@ -6,4 +6,5 @@ object act2 {
   var k = 2
 
 
+
 }
