@@ -4,6 +4,5 @@ object act22 {
   var c = 4
   var d = 5
   var k = 4.3f
-  
-  
+
 }
