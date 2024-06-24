@@ -10,6 +10,6 @@ object act2 {
 
   def main(args: Array[String]):Unit = {
     println(k +12*m)
-  }  
+  }   
 }
 
