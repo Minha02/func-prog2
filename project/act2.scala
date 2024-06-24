@@ -5,5 +5,4 @@ object act2 {
   var n = 5
   var k = 2
 
-
 }
