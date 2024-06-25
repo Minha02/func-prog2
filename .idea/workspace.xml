@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366fa073-20f9-4d89-9a9a-7a3f6942b221" name="Changes" comment="First Commit for the activity 2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/act2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/act2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/project/act2.scala" afterDir="false" />
+    <list default="true" id="366fa073-20f9-4d89-9a9a-7a3f6942b221" name="Changes" comment="Second Commit for the activity 2.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +17,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="untitled" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -38,6 +42,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Minha02"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Minha02/func-prog2",
+    "accountId": "54cfef1d-2b3c-4f32-8e6d-0bacb12802da"
+  }
+}]]></component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -55,6 +71,8 @@
   "keyToString": {
     "Application.act2 (1).executor": "Run",
     "Application.act2.executor": "Run",
+    "Application.act22.executor": "Run",
+    "Application.act23.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "act2",
@@ -70,7 +88,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.act2 (1)">
+  <component name="RunManager" selected="Application.act22">
     <configuration name="act2 (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="act2" />
       <module name="untitled" />
@@ -85,8 +103,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="act22" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="act22" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="act23" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="act23" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.act22" />
+        <item itemvalue="Application.act23" />
         <item itemvalue="Application.act2 (1)" />
         <item itemvalue="Application.act2" />
       </list>
@@ -153,11 +187,145 @@
       <option name="project" value="LOCAL" />
       <updated>1719207570049</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="First Commit for the activity 2">
+      <option name="closed" value="true" />
+      <created>1719208511298</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719208511298</updated>
+    </task>
+    <task id="LOCAL-00008" summary="First Commit for the activity 2">
+      <option name="closed" value="true" />
+      <created>1719208570304</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719208570304</updated>
+    </task>
+    <task id="LOCAL-00009" summary="First Commit for the activity 2">
+      <option name="closed" value="true" />
+      <created>1719208578660</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719208578660</updated>
+    </task>
+    <task id="LOCAL-00010" summary="First Commit for the activity 2">
+      <option name="closed" value="true" />
+      <created>1719208680272</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719208680272</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Second Commit for the activity 2.1">
+      <option name="closed" value="true" />
+      <created>1719244076484</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719244076484</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Second Commit for the activity 2.1">
+      <option name="closed" value="true" />
+      <created>1719244148289</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719244148289</updated>
+    </task>
+    <task id="LOCAL-00013" summary="First Commit for the activity 2.2">
+      <option name="closed" value="true" />
+      <created>1719244172467</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719244172467</updated>
+    </task>
+    <task id="LOCAL-00014" summary="First Commit for the activity 2.3">
+      <option name="closed" value="true" />
+      <created>1719248873525</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719248873525</updated>
+    </task>
+    <task id="LOCAL-00015" summary="First Commit for the activity 2.4">
+      <option name="closed" value="true" />
+      <created>1719251037748</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719251037748</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Second Commit for the activity 2.2">
+      <option name="closed" value="true" />
+      <created>1719254195124</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719254195124</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="act2" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="act2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit for the activity 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit for the activity 2" />
+    <MESSAGE value="Second Commit for the activity 2.1" />
+    <MESSAGE value="First Commit for the activity 2.2" />
+    <MESSAGE value="First Commit for the activity 2.3" />
+    <MESSAGE value="First Commit for the activity 2.4" />
+    <MESSAGE value="Second Commit for the activity 2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit for the activity 2.2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/act23.scala</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

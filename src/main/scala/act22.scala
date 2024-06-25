@@ -7,12 +7,14 @@ object act22 {
     var k = 4.3f
     var g = 4.0f
 
-    println((b-1) * a + c * (d-1))
-    val aval= a+1
-    println(aval)
+    println({b-=1;b * a + c * d})
+    d-=1
+    println(a)
+    a+=1
     println(-2*(g-k)+c)
-    c +=1
     println(c)
-    println((c+1)*c*(a+1))
+    c +=1
+    println({c+=1;c*a})
+    a+=1
 
   }}
