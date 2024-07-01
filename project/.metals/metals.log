@@ -16,3 +16,7 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6b51cb4
 2024.07.01 22:07:04 INFO  compiling project_f4dd477a3a (1 scala source)
 2024.07.01 22:07:10 INFO  time: compiled project_f4dd477a3a in 5.26s
 2024.07.01 22:07:16 INFO  time: indexed workspace in 11s
+2024.07.01 22:10:50 INFO  Shutting down server
+2024.07.01 22:10:50 INFO  shutting down Metals
+2024.07.01 22:10:50 INFO  Shut down connection with build server.
+2024.07.01 22:10:50 INFO  Exiting server
