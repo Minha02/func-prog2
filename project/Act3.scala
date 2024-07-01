@@ -8,4 +8,3 @@ object Act3 {
     println("Reversed String: " + reverseString("HELLO"))
   }
 }
-  
